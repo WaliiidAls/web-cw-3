@@ -1,0 +1,15 @@
+img {
+    display: block;
+}
+ul {
+    list-style: none;
+}
+.pc {
+    background-color: rgb(143, 201, 143);
+}
+.nintendo {
+    background-color: rgb(216, 131, 131);
+}
+.ps4 {
+    background-color: rgb(112, 112, 224);
+}
